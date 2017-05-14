@@ -1,0 +1,7 @@
+Projekt dotyczy aplikacji magazynowej. Mam potrzebe stworzenia aplikacji, dzieki której bêdê móg³ dodwaæ nowe przedmioty do magazynu, a tak¿e zmieniaæ ich status i nadawaæ im kody kreskowe, lub wstêpnie numery seryjne
+
+1. Okienko zudowane w wpf - wyglad dla dodawania sprzêtu oraz dla wypozyczania 
+2. Mozliwosc dodawania sprzetu, nadawania mu numeru seryjnego i kodu kreskowego. Sprzet dodany do bazy mozliwy do wypozyczania (data dodania, data wypozycznia, data zwrotu, komu wypozyczony, zmiana statusów, data kasacji)
+3. Podzia³ sprzêtu na klasy z mozliwosciami dziedziczenia - np. sprzet kuchenny, sprzet budowlany, sprzet turystyczny
+4. Podzial uzytkownikow, na administratora i uzytkownikow z ograniczonymi dostepami
+5. Na podstawie wypozyczenia okreslanie iel czasu pozostalo na zwrocenie sprzetu, po przekroczeniu terminu pokazaniae tego np poprzez zmiene podswietlenia napisow
